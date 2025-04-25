@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="openjdk-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/java-completable-futures" />
+            <option value="$PROJECT_DIR$/java-concurrent-basics" />
+            <option value="$PROJECT_DIR$/java-lambdas-streams" />
+            <option value="$PROJECT_DIR$/java-optional-nulls" />
+            <option value="$PROJECT_DIR$/java-reactive-core" />
+            <option value="$PROJECT_DIR$/java-sealed-patterns" />
+            <option value="$PROJECT_DIR$/java-virtual-threads" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

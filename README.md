@@ -18,16 +18,16 @@ Repositorio práctico para dominar features modernos de Java (21+) con enfoque e
 
 ## 📦 Módulos Principales
 
-| Módulo | Descripción | Tecnologías Clave |
-|--------|-------------|-------------------|
-| [java-lambdas-streams](java-lambdas-streams) | Programación funcional con expresiones lambda y Stream API | Functional Interfaces, Method References |
-| [java-optional-nulls](java-optional-nulls) | Manejo seguro de nulos con Optional | Optional API, Null Safety Patterns |
-| [java-sealed-patterns](java-sealed-patterns) | Patrones con sealed classes y pattern matching | Sealed Classes, Pattern Matching |
-| [java-concurrent-basics](java-concurrent-basics) | Fundamentos de concurrencia en Java | Executors, Synchronization |
-| [java-completable-futures](java-completable-futures) | Programación asíncrona con CompletableFuture | Async Programming, Chaining |
-| [java-virtual-threads](java-virtual-threads) | Concurrencia a gran escala con Virtual Threads | Project Loom, Structured Concurrency |
-| [java-reactive-core](java-reactive-core) | Programación reactiva con Reactor Core | Flux, Mono, Backpressure |
-| [java-reactor-loom](java-reactor-loom) | Integración Reactor + Virtual Threads | Reactive Streams, Project Loom |
+| Módulo                                               | Descripción                                                | Tecnologías Clave                        |
+|------------------------------------------------------|------------------------------------------------------------|------------------------------------------|
+| [java-lambdas-streams](java-lambdas-streams)         | Programación funcional con expresiones lambda y Stream API | Functional Interfaces, Method References |
+| [java-optional-nulls](java-optional-nulls)           | Manejo seguro de nulos con Optional                        | Optional API, Null Safety Patterns       |
+| [java-sealed-patterns](java-sealed-patterns)         | Patrones con sealed classes y pattern matching             | Sealed Classes, Pattern Matching         |
+| [java-concurrent-basics](java-concurrent-basics)     | Fundamentos de concurrencia en Java                        | Executors, Synchronization               |
+| [java-completable-futures](java-completable-futures) | Programación asíncrona con CompletableFuture               | Async Programming, Chaining              |
+| [java-virtual-threads](java-virtual-threads)         | Concurrencia a gran escala con Virtual Threads             | Project Loom, Structured Concurrency     |
+| [java-reactive-core](java-reactive-core)             | Programación reactiva con Reactor Core                     | Flux, Mono, Backpressure                 |
+| [java-reactor-loom](java-reactor-loom)               | Integración Reactor + Virtual Threads                      | Reactive Streams, Project Loom           |
 
 ## 🛠️ Tecnologías Utilizadas
 - **Java 21+** (Features modernos: sealed classes, pattern matching, virtual threads)
